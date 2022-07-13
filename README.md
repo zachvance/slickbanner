@@ -1,4 +1,4 @@
-<img src="https://github.com/zachvance/quickbanner/blob/main/examples/banner.png" alt="Banner" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/banner.png" alt="Banner" width="1000"/>
 
 # SlickBanner
 
@@ -22,25 +22,25 @@ Below are gradient presets available through the palette argument. (Yes, some of
 have been adapted and borrowed from Seaborn.)  
 
 `lavender` 
-<img src="https://github.com/zachvance/quickbanner/blob/main/examples/lavender.png" alt="lavender" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/lavender.png" alt="lavender" width="1000"/>
 
 `husl`  
-<img src="https://github.com/zachvance/quickbanner/blob/main/examples/husl.png" alt="husl" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/husl.png" alt="husl" width="1000"/>
 
 `cotton_candy`  
-<img src="https://github.com/zachvance/quickbanner/blob/main/examples/cotton_candy.png" alt="cotton_candy" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/cotton_candy.png" alt="cotton_candy" width="1000"/>
 
 `flare`  
-<img src="https://github.com/zachvance/quickbanner/blob/main/examples/flare.png" alt="flare" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/flare.png" alt="flare" width="1000"/>
 
 `electric`  
-<img src="https://github.com/zachvance/quickbanner/blob/main/examples/electric.png" alt="electric" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/electric.png" alt="electric" width="1000"/>
 
 `raspberry`  
-<img src="https://github.com/zachvance/quickbanner/blob/main/examples/raspberry.png" alt="raspberry" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/raspberry.png" alt="raspberry" width="1000"/>
 
 `mint`  
-<img src="https://github.com/zachvance/quickbanner/blob/main/examples/mint.png" alt="mint" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/mint.png" alt="mint" width="1000"/>
 
 ## Todo
 - Add option to supply your own arguments for a gradient, in lieu of a preset palette.
