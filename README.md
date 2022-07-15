@@ -54,6 +54,29 @@ We can specify a colour palette with the -p flag:
 And we can specify banner size with the -w (width) and -he (height) flags:  
 `python main.py -t project -p flare -w 900 -he 400`
 
+### Border and Edge Buffer
+There are two flags for adjusting the framing: border thickness and edge buffer. Border thickness is how thick the
+border/frame is in pixels. Edge buffer is the amount of pixels between the outer edge of the image canvas and the start
+of the border.
+
+The border thickness can be specified via the `-b` flag, and the edge buffer can be specified via the `-e` flag:  
+`python main.py -t project -b 60 -e 60`
+
+Setting either of these values to 0 allows you to create a banner without a border or an edge buffer.
+
+### Alignments
+Text alignment can be adjusted through the -a flag. There are 5 accepted values for the alignment argument: `top_left`,
+`top_right`, `bottom_left`, `bottom_right`, and `center`.  
+`python main.py -t project -a bottom_right`
+
+### Output File
+The output file name can be specified with the `-fn` flag, and the file type can be specified with the `-ft` flag. The
+output file name will default to banner and the file type will default to png when no arguments are given.
+`python main.py -t project -fn my_banner -ft jpg`
+
+When the program saves the output, it's just using the .save() function from PIL, and thus the file type can be set to
+any of the accepted file type options that PIL's .save() will take.
+
 ## Preset Gradient Colour Palettes
 Below are gradient presets available through the palette argument. (Yes, some of the colour schemes and palette names
 have been adapted and borrowed from Seaborn.)  
