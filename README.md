@@ -15,6 +15,7 @@ create one (not a lot of time, but time none the less).
 I figured using Python and utilizing the Pillow library would allow me to recreate what I've been doing in Photoshop.
 
 ## Usage
+### General
 To create a basic banner with most default settings, run main.py and use the `-t` (title) flag, followed by your banner's
 lettering. This will default to the Arial Bold typeface, with dimensions that match the recommended sizing for the
 GitHub social image, and randomly select a background palette.
@@ -26,10 +27,12 @@ We can group words on multiple lines by enclosing each line in it's own quotes:
 We can add subtitle lines in a similar fashion, though use of the -st (subtitle) flag:  
 `python main.py -t "this is" "my project" -st "and this is subtitle line 1" "and this is subtitle line 2"`
 
+### Text spacing
 Our text is a little too close to the left border. We can adjust the text's _offset_ with the `-o` flag, which takes two
 integers as arguments, representing the number of pixels to offset the text by on the x and y axis, respectively:  
 `python main.py -t "this is" "my project" -st "and this is subtitle line 1" "and this is subtitle line 2" -o 30 0`
 
+### Font/Typeface
 There are a couple options for specifying the font - we can use the -fn flag by itself to specify the font name. This
 will use the default fonts folder located at `C:\Windows\Fonts\`. You must use the font's file name (without the .ttf
 extension), and not the display name used by Windows. You can get the file name by right-clicking on a font and checking
@@ -43,9 +46,11 @@ flag:
 Or, we can specify an absolute path to our desired font with a single flag, -f (font):  
 `python main.py -t projectname -f C:\\Path\\To\\Font\\font.ttf`
 
+### Colour Palette
 We can specify a colour palette with the -p flag:  
 `python main.py -t project -p flare`
 
+### Dimensions
 And we can specify banner size with the -w (width) and -he (height) flags:  
 `python main.py -t project -p flare -w 900 -he 400`
 
