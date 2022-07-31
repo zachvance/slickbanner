@@ -58,6 +58,8 @@ We can specify a colour palette with the `-p` flag:
 
 `python main.py -t project -p flare`
 
+Omitting the `-p` flag will create a banner with a palette selected at random.
+
 ### Dimensions
 And we can specify banner size with the `-w` (width) and `-he` (height) flags:  
 
