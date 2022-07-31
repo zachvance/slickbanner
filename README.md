@@ -114,6 +114,9 @@ have been adapted and borrowed from Seaborn.)
 `mint`  
 <img src="https://github.com/zachvance/slickbanner/blob/main/examples/mint.png" alt="mint" width="1000"/>
 
+`blueberry`  
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/blueberry.png" alt="blueberry" width="1000"/>
+
 ## Todo
 - Add option to supply your own arguments for a gradient, in lieu of a preset palette.
 - Add the ability to load an image to use as the background instead of using a gradient.
