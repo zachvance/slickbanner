@@ -94,28 +94,28 @@ Below are gradient presets available through the palette argument. (Yes, some of
 have been adapted and borrowed from Seaborn.)  
 
 `lavender` 
-<img src="https://github.com/zachvance/slickbanner/blob/main/examples/lavender.png" alt="lavender" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/lavender.png" alt="lavender" width="400"/>
 
 `husl`  
-<img src="https://github.com/zachvance/slickbanner/blob/main/examples/husl.png" alt="husl" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/husl.png" alt="husl" width="400"/>
 
 `cotton_candy`  
-<img src="https://github.com/zachvance/slickbanner/blob/main/examples/cotton_candy.png" alt="cotton_candy" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/cotton_candy.png" alt="cotton_candy" width="400"/>
 
 `flare`  
-<img src="https://github.com/zachvance/slickbanner/blob/main/examples/flare.png" alt="flare" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/flare.png" alt="flare" width="400"/>
 
 `electric`  
-<img src="https://github.com/zachvance/slickbanner/blob/main/examples/electric.png" alt="electric" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/electric.png" alt="electric" width="400"/>
 
 `raspberry`  
-<img src="https://github.com/zachvance/slickbanner/blob/main/examples/raspberry.png" alt="raspberry" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/raspberry.png" alt="raspberry" width="400"/>
 
 `mint`  
-<img src="https://github.com/zachvance/slickbanner/blob/main/examples/mint.png" alt="mint" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/mint.png" alt="mint" width="400"/>
 
 `blueberry`  
-<img src="https://github.com/zachvance/slickbanner/blob/main/examples/blueberry.png" alt="blueberry" width="1000"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/blueberry.png" alt="blueberry" width="400"/>
 
 ## Todo
 - Add option to supply your own arguments for a gradient, in lieu of a preset palette.
