@@ -110,10 +110,10 @@ Below are gradient presets available through the palette argument. (Yes, some of
 have been adapted and borrowed from Seaborn.)  
 
 `lavender`  
-<img src="https://github.com/zachvance/slickbanner/blob/main/examples/lavender.png" alt="lavender" width="400"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/lavender.png" alt="lavender" width="300"/>
 
 `husl`  
-<img src="https://github.com/zachvance/slickbanner/blob/main/examples/husl.png" alt="husl" width="400"/>
+<img src="https://github.com/zachvance/slickbanner/blob/main/examples/husl.png" alt="husl" width="300"/>
 
 `cotton_candy`  
 <img src="https://github.com/zachvance/slickbanner/blob/main/examples/cotton_candy.png" alt="cotton_candy" width="400"/>
