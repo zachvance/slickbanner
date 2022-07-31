@@ -93,7 +93,7 @@ any of the accepted file type options that PIL's .save() will take.
 Below are gradient presets available through the palette argument. (Yes, some of the colour schemes and palette names
 have been adapted and borrowed from Seaborn.)  
 
-`lavender` 
+`lavender`  
 <img src="https://github.com/zachvance/slickbanner/blob/main/examples/lavender.png" alt="lavender" width="400"/>
 
 `husl`  
