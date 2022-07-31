@@ -134,6 +134,7 @@ have been adapted and borrowed from Seaborn.)
 <img src="https://github.com/zachvance/slickbanner/blob/main/examples/blueberry.png" alt="blueberry" width="400"/>
 
 ## Todo
+Below is a list of possible features and imporvements that I may look at implementing in the future. They are not in any particular order:
 - Add option to supply your own arguments for a gradient, in lieu of a preset palette.
 - Add the ability to load an image to use as the background instead of using a gradient.
 - Add the ability to load an image to use as a tiled background.
