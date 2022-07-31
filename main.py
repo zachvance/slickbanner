@@ -134,7 +134,6 @@ class Menu:
         self.parser.add_argument(
             "-pr",
             "--preset",
-            default="github_social",
             type=str,
             help="Use a preset for the banner size. default | github_social | github_banner",
         )

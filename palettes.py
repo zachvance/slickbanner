@@ -19,6 +19,7 @@ def load_palette_presets():
     electric = Palette("electric", (255, 50, 20), (50, 5, 255), (True, False, False))
     raspberry = Palette("raspberry", (120, 5, 10), (10, 5, 120), (True, False, False))
     mint = Palette("mint", (0, 190, 100), (0, 190, 190), (True, False, False))
+    blueberry = Palette("blueberry", (40, 30, 80), (100, 40, 230), (False, True, False))
 
     PALETTES["lavender"] = lavender
     PALETTES["husl"] = husl
@@ -27,3 +28,4 @@ def load_palette_presets():
     PALETTES["electric"] = electric
     PALETTES["raspberry"] = raspberry
     PALETTES["mint"] = mint
+    PALETTES["blueberry"] = blueberry
