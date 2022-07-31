@@ -7,6 +7,11 @@
 
 Generate a GitHub social banner, or other banner-style images for projects and social medias.
 
+## Table of Contents
+1. [Background](#background)
+2. [Usage](#usage)
+  2.1. [General](#general)
+
 ## Background
 I've wanted to do this project for a while now, and I'm reminded every time I make a new repository public on GitHub -
 I always try to add a social image to my project before making it public, and it always takes extra time in Photoshop to
