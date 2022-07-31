@@ -12,11 +12,11 @@ Generate a GitHub social banner, or other banner-style images for projects and s
 2. [Usage](#usage)  
   2.1. [General](#general)  
   2.2. [Text spacing](#text-spacing)  
-  2.3. [Font/Typeface](#font/typeface)  
+  2.3. [Font/Typeface](#font-typeface)  
   2.4. [Colour palette](#colour-palette)  
   2.5. [Dimensions](#dimensions)  
   2.6. [Border and Edge Buffer](#border-and-edge-buffer)  
-  2.7. [Alignments](#alignments) 
+  2.7. [Alignments](#alignments)  
   2.8. [Output file](#output-file) 
 3. [Preset Gradient Colour Palettes](#preset-gradient-colour-palettes)  
 
