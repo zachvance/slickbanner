@@ -143,3 +143,4 @@ alpha layer.
 - Add option to change frame colour, or use a generated gradient.
 - Add option to change font colour, or use a generated gradient.
 - Add option for a drop shadow on the font.
+- Add a usage option: maybe the choice of an interactive-style menu to edit the Banner class instance live.
