@@ -9,7 +9,7 @@ Generate a GitHub social banner, or other banner-style images for projects and s
 
 ## Table of Contents
 1. [Background](#background)
-2. [Usage](#usage)
+2. [Usage](#usage)  
   a. [General](#general)
 
 ## Background
