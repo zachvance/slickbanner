@@ -10,8 +10,8 @@ Generate a GitHub social banner, or other banner-style images for projects and s
 ## Table of Contents
 1. [Background](#background)
 2. [Usage](#usage)  
-  2.1. [General](#general)
-  2.2. [Text spacing](#text spacing)
+  2.1. [General](#general)  
+  2.2. [Text spacing](#text_spacing)
 
 ## Background
 I've wanted to do this project for a while now, and I'm reminded every time I make a new repository public on GitHub -
