@@ -8,18 +8,18 @@
 Generate a GitHub social banner, or other banner-style images for projects and social medias.
 
 ## Table of Contents
-1. [Background](#background)
-2. [Usage](#usage)  
-  2.0. [General](#general)  
-  2.1. [Text spacing](#text-spacing)  
-  2.2. [Font/Typeface](#fonttypeface)  
-  2.3. [Colour palette](#colour-palette)  
-  2.4. [Dimensions](#dimensions)  
-  2.5. [Border and Edge Buffer](#border-and-edge-buffer)  
-  2.6. [Alignments](#alignments)  
-  2.7. [Output file](#output-file) 
-3. [Preset Gradient Colour Palettes](#preset-gradient-colour-palettes)  
-4. [Todo](#todo)
+0. [Background](#background)
+1. [Usage](#usage)  
+  1.0. [General](#general)  
+  1.1. [Text spacing](#text-spacing)  
+  1.2. [Font/Typeface](#fonttypeface)  
+  1.3. [Colour palette](#colour-palette)  
+  1.4. [Dimensions](#dimensions)  
+  1.5. [Border and Edge Buffer](#border-and-edge-buffer)  
+  1.6. [Alignments](#alignments)  
+  1.7. [Output file](#output-file) 
+2. [Preset Gradient Colour Palettes](#preset-gradient-colour-palettes)  
+3. [Todo](#todo)
 
 ## Background
 I've wanted to do this project for a while now, and I'm reminded every time I make a new repository public on GitHub -
